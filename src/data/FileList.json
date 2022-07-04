@@ -1,0 +1,79 @@
+{
+	"listdata": [
+		{
+			"label": "Publist",
+			"content": [
+				{
+					"channel": "Hmall-PC",
+					"category": [
+						{
+							"folder": "CO",
+							"name": "PC 공통/GNB/메인템플릿/기타",
+							"file": [
+								{ "name": "CO-001", "title": "CO 퍼블 파일 1"},
+								{ "name": "CO-002", "title": "CO 퍼블 파일 2"},
+								{ "name": "CO-003", "title": "CO 퍼블 파일 3"},
+								{ "name": "CO-004", "title": "CO 퍼블 파일 4"}
+							]
+						},
+						{
+							"folder": "PD",
+							"name": "PC 검색/상품상세",
+							"file": [
+								{ "name": "PD-001", "title": "PD 퍼블 파일 1"},
+								{ "name": "PD-002", "title": "PD 퍼블 파일 2"},
+								{ "name": "PD-003", "title": "PD 퍼블 파일 3"}
+							]
+						},
+						{
+							"folder": "CC",
+							"name": "PC 고객센터",
+							"file": [
+								{ "name": "CC-001", "title": "CC 퍼블 파일 1"},
+								{ "name": "CC-002", "title": "CC 퍼블 파일 2"},
+								{ "name": "CC-003", "title": "CC 퍼블 파일 3"},
+								{ "name": "CC-004", "title": "CC 퍼블 파일 4"},
+								{ "name": "CC-005", "title": "CC 퍼블 파일 5"}
+							]
+						}
+					]
+				},
+				{
+					"channel": "Hmall-Mobile",
+					"category": [
+						{
+							"folder": "CO",
+							"name": "모바일 공통/GNB/메인템플릿/기타",
+							"file": [
+								{ "name": "M-CO-001", "title": "모바일 CO 퍼블 파일 1"},
+								{ "name": "M-CO-002", "title": "모바일 CO 퍼블 파일 2"},
+								{ "name": "M-CO-003", "title": "모바일 CO 퍼블 파일 3"},
+								{ "name": "M-CO-004", "title": "모바일 CO 퍼블 파일 4"}
+							]
+						},
+						{
+							"folder": "PD",
+							"name": "모바일 검색/상품상세",
+							"file": [
+								{ "name": "M-PD-001", "title": "모바일 PD 퍼블 파일 1"},
+								{ "name": "M-PD-002", "title": "모바일 PD 퍼블 파일 2"},
+								{ "name": "M-PD-003", "title": "모바일 PD 퍼블 파일 3"}
+							]
+						},
+						{
+							"folder": "CC",
+							"name": "모바일 고객센터",
+							"file": [
+								{ "name": "M-CC-001", "title": "모바일 CC 퍼블 파일 1"},
+								{ "name": "M-CC-002", "title": "모바일 CC 퍼블 파일 2"},
+								{ "name": "M-CC-003", "title": "모바일 CC 퍼블 파일 3"},
+								{ "name": "M-CC-004", "title": "모바일 CC 퍼블 파일 4"},
+								{ "name": "M-CC-005", "title": "모바일 CC 퍼블 파일 5"}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
